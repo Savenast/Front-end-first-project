@@ -165,6 +165,7 @@ cursor: pointer;
    }
    /*Aside product detail y carrito */
  aside {
+    background-color: var(--white);
     width: 360px;
     padding-bottom: 24px;
     position: absolute;
